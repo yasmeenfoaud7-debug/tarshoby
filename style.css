@@ -76,7 +76,7 @@ h2.section-title {
     margin: 0 auto;
 }
 
-/* Full Width Hero Banner */
+
 .hero-banner {
     width: 100vw;
     position: relative;
@@ -216,7 +216,6 @@ h2.section-title {
     color: #fff;
     font-weight: bold;
 }
-/* Footer Styles & Call to Action */
 .site-footer {
     background-color: #1a1a1a;
     color: #fff;
